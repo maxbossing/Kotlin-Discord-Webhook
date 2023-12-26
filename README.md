@@ -71,7 +71,7 @@ hook.send(url("You webhook url"))
 4. That will display this great thing:  
 ![img](assets/webhook.png)
 
-> [!INFO]  
+> [!TIP]  
 > If you do not need to reuse the webhook, you can use the shortcut sendWebhook("url") {  } 
 >
 
